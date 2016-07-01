@@ -3,6 +3,10 @@
   margin: 0;
 }
 
+body{
+  
+}
+
 h1{
   text-align: center;
   margin-top: 20px;
@@ -17,6 +21,7 @@ h1{
   border: 1px solid black;
   padding: 10px;
   box-sizing: border-box;
+  background: #F7EEEB;
 }
 
 .section>h2{
@@ -26,6 +31,7 @@ h1{
   text-align: center;
   width:150px;
   border: 1px solid black;
+  color: #F2F60D;
 }
 
 .section>p{
@@ -34,6 +40,18 @@ h1{
   margin:5px;
 }
 
+#chicken{
+  background: #A007AB;
+
+}
+
+#beef{
+  background: #AB0764;
+}
+
+#sushi{
+  background: #4E07AB;
+}
 
 
 /*---------------------------------------- Responsive Framework. ----------------------------------------*/
